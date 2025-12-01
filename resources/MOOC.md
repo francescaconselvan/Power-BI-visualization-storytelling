@@ -6,7 +6,7 @@
 **Content:** This is an excellent crash course that covers all essential Power BI fundamentals in just 3 hours. It takes you through the complete workflow from data loading to creating interactive reports.
 
 ## Microsoft Data Visualization Professional Certificate
-**Provider:** MICROSOFT - Coursera
+**Provider:** MICROSOFT - Coursera  
 **Link:** 
 **Content:**
 
@@ -16,13 +16,19 @@
 ---
 
 ## Microsoft Power BI Data Analyst Professional Certificate
-**Provider:** MICROSOFT - Coursera
+**Provider:** MICROSOFT - Coursera  
 **Link:** 
+**Content:**
 
 
 
 
-### Course 3: Creative Designing in PowerBI
+
+### Course 3: Creative Designing in PowerBI  
+**Provider:** MICROSOFT - Coursera  
+**Link:** 
+**Content:**
+
 
 
 ---
