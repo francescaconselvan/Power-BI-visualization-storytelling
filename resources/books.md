@@ -16,9 +16,10 @@ This is a curated list of recommended books for mastering data visualization, st
 
 ## Technical 
 1.  Sergei Kolokolov, *Data Visualization with Microsoft Power BI*
-Practical guide to creating effective visualizations and dashboards in Power BI, covering technical implementation and best practices.    
+    Practical guide to creating effective visualizations    and dashboards in Power BI, covering technical     implementation and best practices.    
 
-2. Steve Wexler, Jeffrey Shaffer, Andy Cotgreave, *The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios*  
+1. Steve Wexler, Jeffrey Shaffer, Andy Cotgreave, *The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios*  
+    Real-world dashboard examples across different industries and scenarios. Provides practical patterns and design solutions for common business needs with dozens of examples.
 
 ## Graphic design
 1. Sandra Rendgen, Julius Wiedemann, *Information Graphics*
