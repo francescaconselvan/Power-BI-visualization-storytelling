@@ -15,6 +15,8 @@ This is a curated list of recommended books for mastering data visualization, st
 4. William S. Cleveland, *The Elements of Graphing Data*
    Comprehensive guide to graphical data display principles based on research in human perception and cognition
 
+5. William S. Cleveland, *Visualizing data*  
+   Classic book on the principles of visualisation for data analysis. While it is more than 20 years old (1993), the ideas are timeless. 
 ---
 ## Technical 
 1.  Sergei Kolokolov, *Data Visualization with Microsoft Power BI*
